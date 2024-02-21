@@ -1,4 +1,4 @@
-# Wave Wears: Elevate your style with Wave.
+# Wave Wears: Elevate Your Style With Wave.
 
 Wave Wears introduces the future of timekeeping, where style intertwines effortlessly with advanced technology to redefine your daily experience. Explore our innovative platform, crafted with the latest web technologies including HTML5, CSS3, JavaScript (jQuery), and Bootstrap, ensuring a seamless user experience like never before.
 
